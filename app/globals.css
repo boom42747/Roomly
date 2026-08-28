@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #111;
+}
+
+main {
+  max-width: 1200px;
+  margin: auto;
+  padding: 80px 24px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+input {
+  width: 500px;
+  max-width: 70%;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+button {
+  padding: 16px 24px;
+  margin-left: 8px;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
